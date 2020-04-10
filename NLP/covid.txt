@@ -1,0 +1,146 @@
+Know the Signs & Symptoms
+Know the signs and symptoms of COVID-19 and what to do if symptomatic:
+
+Stay home when you are sick
+Call your health care provider’s office in advance of a visit
+Limit movement in the community
+Limit visitors
+check circle solid icon
+Take Steps for Those at Higher Risk
+Know what additional measures those at higher risk and who are vulnerable should take.
+
+check circle solid icon
+Protect Yourself & Family
+Implement steps to prevent illness (e.g., stay home when sick, handwashing, respiratory etiquette, clean frequently touched surfaces daily).
+
+check circle solid icon
+Create a Household Plan
+Create a household plan of action in case of illness in the household or disruption of daily activities due to COVID-19 in the community.
+
+Consider 2-week supply of prescription and over the counter medications, food and other essentials. Know how to get food delivered if possible.
+Establish ways to communicate with others (e.g., family, friends, co-workers).
+Establish plans to telework, what to do about childcare needs, how to adapt to cancellation of events.
+check circle solid icon
+Stay Informed About Emergency Plans
+Know about emergency operations plans for schools/workplaces of household members.
+Q: What are the clinical features of COVID-19?
+A: The clinical spectrum of COVID-19 ranges from mild disease with non-specific signs and symptoms of acute respiratory illness, to severe pneumonia with respiratory failure and septic shock. There have also been reports of asymptomatic infection with COVID-19. See also Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease 2019 (COVID-19).
+Q: Who is at risk for COVID-19?
+
+A: Currently, those at greatest risk of infection are persons who have had prolonged, unprotected close contact with a patient with symptomatic, confirmed COVID-19 and those who live in or have recently been to areas with sustained transmission.
+
+Q. My patient has one of the underlying medical conditions listed what should I tell my patient?
+
+You know your patient – their overall health and how well their conditions are managed. Use your clinical judgement to evaluate on a case by case basis.
+Tell patients with underlying medical conditions that increase their risk of severe illness or poorer outcomes from COVID-19:
+To stay home as much as possible to reduce their risk of being exposed.
+Encourage patients to closely follow their care plans for management of their chronic disease, including better glycemic or blood pressure control
+If possible, work with patients to manage their underlying condition to the best of their ability, including ensuring that patients have sufficient medication and supplies. Encourage all patients, regardless of risk, to:
+Take steps to protect yourself.
+Call your healthcare provider if you are sick with a fever, cough, or shortness of breath.
+Follow CDC travel guidelines and the recommendations of your state and local health officials.
+Fear and anxiety about a disease can feel overwhelming, especially for those who might be at higher risk or are experiencing social isolation, and for healthcare providers that are treating patients at higher risk. Do what you can to take care of your mental health and encourage your patients to do the same.
+Q. What is my patient’s risk if they have one of the underlying medical conditions listed?
+
+There is insufficient information on COVID-19 to determine risk for each underlying medical condition. Epidemiologists at CDC are analyzing data around the clock to help us more precisely understand the risks of COVID-19. Information will be shared as soon as it’s available.
+You know your patient – their overall health and how well their conditions are managed. Use your clinical judgement to evaluate on a case by case basis.
+Q: Who is at risk for severe disease from COVID-19?
+
+A. COVID-19 is a new disease and there is limited information regarding risk factors for severe disease. Based on currently available information and clinical expertise, older adults and people of any age who have serious underlying medical conditions might be at higher risk for severe illness from COVID-19.
+
+Based upon available information to date, those at high-risk for severe illness from COVID-19 include:
+
+People aged 65 years and older
+People who live in a nursing home or long-term care facility
+Other high-risk conditions could include:
+People with chronic lung disease or moderate to severe asthma
+People who have heart disease with complications
+People who are immunocompromised including cancer treatment
+People of any age with severe obesity (body mass index [(BM]I)≥40) or certain underlying medical conditions, particularly if not well controlled, such as those with diabetes, renal failure, or liver disease might also be at risk
+People who are pregnant should be monitored since they are known to be at risk with severe viral illness, however, to date data on COVID-19 has not shown increased risk
+Many conditions can cause a person to be immunocompromised, including cancer treatment, bone marrow or organ transplantation, immune deficiencies, poorly controlled HIV or AIDS, and prolonged use of corticosteroids and other immune weakening medications
+
+Q: When is someone infectious?
+
+A: The onset and duration of viral shedding and period of infectiousness for COVID-19 are not yet known. It is possible that SARS-CoV-2 RNA may be detectable in the upper or lower respiratory tract for weeks after illness onset, similar to infection with MERS-CoV and SARS-CoV. However, detection of viral RNA does not necessarily mean that infectious virus is present. Asymptomatic infection with SARS-CoV-2 has been reported, but it is not yet known what role asymptomatic infection plays in transmission. Similarly, the role of pre-symptomatic transmission (infection detection during the incubation period prior to illness onset) is unknown. Existing literature regarding SARS-CoV-2 and other coronaviruses (e.g. MERS-CoV, SARS-CoV) suggest that the incubation period may range from 2–14 days.
+
+Q: Which body fluids can spread infection?
+
+A: Very limited data are available about detection of SARS-CoV-2 and infectious virus in clinical specimens. SARS-CoV-2 RNA has been detected from upper and lower respiratory tract specimens, and SARS-CoV-2 has been isolated from upper respiratory tract specimens and bronchoalveolar lavage fluid. SARS-CoV-2 RNA has been detected in blood and stool specimens, but whether infectious virus is present in extrapulmonary specimens is currently unknown. The duration of SARS-CoV-2 RNA detection in upper and lower respiratory tract specimens and in extrapulmonary specimens is not yet known but may be several weeks or longer, which has been observed in cases of MERS-CoV or SARS-CoV infection. While viable, infectious SARS-CoV has been isolated from respiratory, blood, urine, and stool specimens, in contrast – viable, infectious MERS-CoV has only been isolated from respiratory tract specimens. It is not yet known whether other non-respiratory body fluids from an infected person including vomit, urine, breast milk, or semen can contain viable, infectious SARS-CoV-2.
+
+Q: Can people who recover from COVID-19 be infected again?
+
+A: The immune response to COVID-19 is not yet understood. Patients with MERS-CoV infection are unlikely to be re-infected shortly after they recover, but it is not yet known whether similar immune protection will be observed for patients with COVID-19.
+
+Q: How should healthcare personnel protect themselves when evaluating a patient who may have COVID-19?
+
+A: Although the transmission dynamics have yet to be determined, CDC currently recommends a cautious approach to persons under investigation (PUI) for COVID-19. Healthcare personnel evaluating PUI or providing care for patients with confirmed COVID-19 should use, Standard  Transmission-based Precautions. See the Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for Coronavirus Disease 2019 (COVID-19) in Healthcare Settings.
+
+Q: Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with COVID-19?
+
+A: Pregnant healthcare personnel (HCP) should follow risk assessment and infection control guidelines for HCP exposed to patients with suspected or confirmed COVID-19. Adherence to recommended infection prevention and control practices is an important part of protecting all HCP in healthcare settings. Information on COVID-19 in pregnancy is very limited; facilities may want to consider limiting exposure of pregnant HCP to patients with confirmed or suspected COVID-19, especially during higher risk procedures (e.g., aerosol-generating procedures) if feasible based on staffing availability.
+
+Q: Should any diagnostic or therapeutic interventions be withheld due to concerns about transmission of COVID-19?
+
+A: Patients should receive any interventions they would normally receive as standard of care. Patients with suspected or confirmed COVID-19 should be asked to wear a surgical mask as soon as they are identified and be evaluated in a private room with the door closed. Healthcare personnel entering the room should use Standard and Transmission-based Precautions.
+
+Q: How do you test a patient for SARS-CoV-2, the virus that causes COVID-19?
+
+A: See recommendations for reporting, testing, and specimen collection at Interim Guidance for Healthcare Professionals.
+
+Q: Will existing respiratory virus panels, such as those manufactured by Biofire or Genmark, detect SARS-CoV-2, the virus that causes COVID-19?
+
+A: No. These multi-pathogen molecular assays can detect a number of human respiratory viruses, including other coronaviruses that can cause acute respiratory illness, but they do not detect COVID-19.
+
+Q: How is COVID-19 treated?
+
+Not all patients with COVID-19 will require medical supportive care. Clinical management for hospitalized patients with COVID-19 is focused on supportive care of complications, including advanced organ support for respiratory failure, septic shock, and multi-organ failure. Empiric testing and treatment for other viral or bacterial etiologies may be warranted.
+
+Corticosteroids are not routinely recommended for viral pneumonia or ARDS and should be avoided unless they are indicated for another reason (e.g., COPD exacerbation, refractory septic shock following Surviving Sepsis Campaign Guidelines).
+
+There are currently no antiviral drugs licensed by the U.S. Food and Drug Administration (FDA) to treat COVID-19. Some in-vitro or in-vivo studies suggest potential therapeutic activity of some agents against related coronaviruses, but there are no available data from observational studies or randomized controlled trials in humans to support recommending any investigational therapeutics for patients with confirmed or suspected COVID-19 at this time. Remdesivir, an investigational antiviral drug, was reported to have in-vitro activity against COVID-19. A small number of patients with COVID-19 have received intravenous remdesivir for compassionate use outside of a clinical trial setting. A randomized placebo-controlled clinical trial of remdesivirexternal icon for treatment of hospitalized patients with COVID-19 respiratory disease has been implemented in China. A randomized open label trialexternal icon of combination lopinavir-ritonavir treatment has been also been conducted in patients with COVID-19 in China, but no results are available to date. trials of other potential therapeutics for COVID-19 are being planned. For information on specific clinical trials underway for treatment of patients with COVID-19 infection, see clinicaltrials.govexternal icon.
+
+See Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease 2019 (COVID-19)
+
+Q: Should post-exposure prophylaxis be used for people who may have been exposed to COVID-19?
+
+A: There is currently no FDA-approved post-exposure prophylaxis for people who may have been exposed to COVID-19. For more information on movement restrictions, monitoring for symptoms, and evaluation after possible exposure to COVID-19 See Interim US Guidance for Risk Assessment and Public Health Management of Persons with Potential Coronavirus Disease 2019 (COVID-19) Exposure in Travel-associated or Community Settings and Interim U.S Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19).
+
+Q: Whom should healthcare providers notify if they suspect a patient has COVID-19?
+
+A: Healthcare providers should consult with local or state health departments to determine whether patients meet criteria for a Persons Under Investigation (PUI). Providers should immediately notify infection control personnel at their facility if they suspect COVID-19 in a patient.
+
+Q: Do patients with confirmed or suspected COVID-19 need to be admitted to the hospital?
+
+A: Not all patients with COVID-19 require hospital admission. Patients whose clinical presentation warrants in-patient clinical management for supportive medical care should be admitted to the hospital under appropriate isolation precautions. Some patients with an initial mild clinical presentation may worsen in the second week of illness. The decision to monitor these patients in the inpatient or outpatient setting should be made on a case-by-case basis. This decision will depend not only on the clinical presentation, but also on the patient’s ability to engage in monitoring, the ability for safe isolation at home, and the risk of transmission in the patient’s home environment. For more information, see Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for Coronavirus Disease 2019 (COVID-19) in a Healthcare Setting and Interim Guidance for Implementing Home Care of People Not Requiring Hospitalization for Coronavirus Disease 2019 (COVID-19).
+
+Q: When can patients with confirmed COVID-19 be discharged from the hospital?
+
+A: Patients can be discharged from the healthcare facility whenever clinically indicated. Isolation should be maintained at home if the patient returns home before the time period recommended for discontinuation of hospital Transmission-Based Precautions described below.
+
+Decisions to discontinue Transmission-Based Precautions or in-home isolation can be made on a case-by-case basis in consultation with clinicians, infection prevention and control specialists, and public health based upon multiple factors, including disease severity, illness signs and symptoms, and results of laboratory testing for COVID-19 in respiratory specimens.
+
+Criteria to discontinue Transmission-Based Precautions can be found in: Interim Considerations for Disposition of Hospitalized Patients with COVID-19
+
+Q: Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with COVID-19?
+
+A: Pregnant healthcare personnel (HCP) should follow risk assessment and infection control guidelines for HCP exposed to patients with suspected or confirmed COVID-19. Adherence to recommended infection prevention and control practices is an important part of protecting all HCP in healthcare settings. Information on COVID-19 in pregnancy is very limited; facilities may want to consider limiting exposure of pregnant HCP to patients with confirmed or suspected COVID-19, especially during higher risk procedures (e.g., aerosol-generating procedures) if feasible based on staffing availability.
+
+Q: What do I need to know if a patient with confirmed or suspected COVID-19 asks about having a pet or other animal in the home?
+
+A: See COVID-19 and Animals.
+
+Waste Management QAs
+Q: What do waste management companies need to know about wastewater and sewage coming from a healthcare facility or community setting with either a known COVID-19 patient or person under investigation (PUI)?
+
+A: Waste generated in the care of PUIs or patients with confirmed COVID-19 does not present additional considerations for wastewater disinfection in the United States. Coronaviruses are susceptible to the same disinfection conditions in community and healthcare settings as other viruses, so current disinfection conditions in wastewater treatment facilities are expected to be sufficient. This includes conditions for practices such as oxidation with hypochlorite (i.e., chlorine bleach) and peracetic acid, as well as inactivation using UV irradiation.
+
+Q: Do wastewater and sewage workers need any additional protection when handling untreated waste from healthcare or community setting with either a known COVID-19 patient or PUI?
+
+A: Wastewater workers should use standard practices including basic hygiene precautions and wear the recommended PPE as prescribed for their current work tasks when handling untreated waste. There is no evidence to suggest that employees of wastewater plants need any additional protections in relation to COVID-19.
+
+Q: Should medical waste or general waste from healthcare facilities treating PUIs and patients with confirmed COVID-19 be handled any differently or need any additional disinfection?
+
+A: Medical waste (trash) coming from healthcare facilities treating COVID-2019 patients is no different than waste coming from facilities without COVID-19 patients. CDC’s guidance states that management of laundry, food service utensils, and medical waste should be performed in accordance with routine procedures. There is no evidence to suggest that facility waste needs any additional disinfection.
+
+More guidance about environmental infection control is available in section 7 of CDC’s Interim Infection Prevention and Control Recommendations for Patients with Confirmed COVID-19 or Persons Under Investigation for COVID-19 in Healthcare Settings.
